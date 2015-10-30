@@ -1,6 +1,7 @@
 #Orchestra: Autonomous TSCH Scheduling
 
 The source code of Orchestra, our autonomous TSCH scheduler published at ACM SenSys'15, is available in [this](https://github.com/simonduq/orchestra/blob/master/sensys15-tsch-testbed-indriya.zip) (for sky in Indriya) and [this]( https://github.com/simonduq/orchestra/blob/master/sensys15-tsch-testbed-jn5168.zip) (for jn5168 in the JN-IoT testbed) archive files.
+The Contiki tree the two above files were built upon is available [here]( https://github.com/simonduq/orchestra/blob/master/sensys15-contiki-3.x-base.zip).
 
 The latest version of TSCH, 6TiSCH and Orchestra, for jn516x, sky and z1, is available in this external repository: https://github.com/EIT-ICT-RICH/contiki
 
